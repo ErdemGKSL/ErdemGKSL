@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **erdemg.dev@outlook.com.tr**
 
-- ⚡ Fun fact **I am not that cool**
+- ⚡ Fun fact **I am majorily using ts and rust nowadays**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
