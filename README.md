@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemgksl&label=Profile%20views&color=0e75b6&style=flat" alt="erdemgksl" /> </p>
 
-- 🌱 I’m currently learning **rust**
-
 - 💬 Ask me about **sveltekit, postgresql**
 
-- 📫 How to reach me **erdemg.dev@outlook.com.tr**
+- 📫 How to reach me **erdem.goksel.dev@gmail.com**
 
 - ⚡ Fun fact **I am majorily using ts and rust nowadays**
 
